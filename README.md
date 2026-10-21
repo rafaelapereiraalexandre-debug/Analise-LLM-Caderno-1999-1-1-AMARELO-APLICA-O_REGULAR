@@ -1,0 +1,1 @@
+# Analise-LLM-Caderno-1999-1-1-AMARELO-APLICA-O_REGULAR
