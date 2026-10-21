@@ -1,0 +1,17 @@
+O diagrama abaixo representa a energia solar que atinge a Terra e sua utilização na geração de eletricidade. A energia solar é responsável pela manutenção do ciclo da água, pela movimentação do ar, e pelo ciclo do carbono que ocorre através da fotossíntese dos vegetais, da decomposição e da respiração dos seres vivos, além da formação de combustíveis fósseis.
+
+**[FIGURA: Fluxograma horizontal e vertical demonstrando o fluxo da energia solar até a geração de eletricidade. O topo inicia com "Proveniente do Sol: 200 bilhões de MW", que se ramifica em quatro caixas: "Aquecimento do solo", "Evaporação da água", "Aquecimento do ar" e "Absorção pelas plantas". A "Evaporação da água" aponta para "Energia Potencial (chuvas)", que leva a "Usinas hidroelétricas (100 000 MW)". A "Absorção pelas plantas" leva a "Petróleo, gás e carvão", que alimenta "Usinas termoelétricas (400 000 MW)". Ambas as usinas convergem para a caixa final cinza "Eletricidade: 500 000 MW".]**
+
+37 No diagrama estão representadas as duas modalidades mais comuns de usinas elétricas, as hidroelétricas e as termoelétricas. No Brasil, a construção de usinas hidroelétricas deve ser incentivada porque essas
+
+I. utilizam fontes renováveis, o que não ocorre com as termoelétricas que utilizam fontes que necessitam de bilhões de anos para serem reabastecidas.
+II. apresentam impacto ambiental nulo, pelo represamento das águas no curso normal dos rios.
+III. aumentam o índice pluviométrico da região de seca do Nordeste, pelo represamento de águas.
+
+Das três afirmações acima, somente
+
+(A) I está correta.
+(B) II está correta.
+(C) III está correta.
+(D) I e II estão corretas.
+(E) II e III estão corretas.

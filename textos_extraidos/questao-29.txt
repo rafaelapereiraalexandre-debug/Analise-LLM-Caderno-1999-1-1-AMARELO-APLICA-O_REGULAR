@@ -1,0 +1,9 @@
+Considerando-se que os animais Z, W e Y não têm parentesco,
+
+29 Se a vaca Y, utilizada como "mãe de aluguel", for a mãe biológica da vaca W, a porcentagem de genes da "mãe de aluguel", presente no clone será
+
+(A) 0%  
+(B) 25%  
+(C) 50%  
+(D) 75%  
+(E) 100%
