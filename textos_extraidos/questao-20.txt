@@ -1,0 +1,15 @@
+Uma garrafa cilíndrica está fechada, contendo um líquido que ocupa quase completamente seu corpo, conforme mostra a figura. Suponha que, para fazer medições, você disponha apenas de uma régua milimetrada.
+
+**[FIGURA: Ilustração de uma garrafa com gargalo estreito fechada por uma rolha/tampa cônica. O corpo principal da garrafa é cilíndrico e está parcialmente preenchido por um líquido, representado pela área sombreada em cinza, que ocupa a maior parte do corpo cilíndrico, estendendo-se até a região onde a garrafa começa a se afunilar para formar o gargalo.]**
+
+20 Para calcular o volume do líquido contido na garrafa, o número mínimo de medições a serem realizadas é:
+
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+(E) 5

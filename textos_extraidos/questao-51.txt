@@ -1,0 +1,16 @@
+51 Lâmpadas incandescentes são normalmente projetadas para trabalhar com a tensão da rede elétrica em que serão ligadas. Em 1997, contudo, lâmpadas projetadas para funcionar com 127V foram retiradas do mercado e, em seu lugar, colocaram-se lâmpadas concebidas para uma tensão de 120V. Segundo dados recentes, essa substituição representou uma mudança significativa no consumo de energia elétrica para cerca de 80 milhões de brasileiros que residem nas regiões em que a tensão da rede é de 127V.
+
+A tabela abaixo apresenta algumas características de duas lâmpadas de 60W, projetadas respectivamente para 127V (antiga) e 120V (nova), quando ambas encontram-se ligadas numa rede de 127V.
+
+**[FIGURA: Tabela com 5 colunas e 3 linhas contendo os seguintes dados:
+- Cabeçalhos: Lâmpada (projeto original) | Tensão da rede elétrica | Potência medida (watt) | Luminosidade medida (lúmens) | Vida útil média (horas)
+- Linha 1: 60W – 127V | 127V | 60 | 750 | 1000
+- Linha 2: 60W – 120V | 127V | 65 | 920 | 452]**
+
+Acender uma lâmpada de 60W e 120V em um local onde a tensão na tomada é de 127V, comparativamente a uma lâmpada de 60W e 127V no mesmo local tem como resultado:
+
+(A) mesma potência, maior intensidade de luz e maior durabilidade.
+(B) mesma potência, maior intensidade de luz e menor durabilidade.
+(C) maior potência, maior intensidade de luz e maior durabilidade.
+(D) maior potência, maior intensidade de luz e menor durabilidade.
+(E) menor potência, menor intensidade de luz e menor durabilidade.

@@ -1,0 +1,16 @@
+As informações abaixo foram extraídas do rótulo da água mineral de determinada fonte.
+
+**[FIGURA: Rótulo de água mineral natural com borda retangular, contendo três seções principais. A primeira seção, "Composição química provável em mg/L", lista: Sulfato de estrôncio 0,04; Sulfato de cálcio 2,29; Sulfato de potássio 2,16; Sulfato de sódio 65,71; Carbonato de sódio 143,68; Bicarbonato de sódio 42,20; Cloreto de sódio 4,07; Fluoreto de sódio 1,24; Vanádio 0,07. A segunda seção, "Características físico-químicas", lista: pH a 25 °C 10,00; Temperatura da água na fonte 24 °C; Condutividade elétrica 4,40 x 10^-4 ohms/cm; Resíduo de evaporação a 180 °C 288,00 mg/L. A terceira seção exibe a "CLASSIFICAÇÃO:" em destaque: "ALCALINO-BICARBONATADA, FLUORETADA, VANÁDICA".]**
+
+Indicadores ácido base são substâncias que em solução aquosa apresentam cores diferentes conforme o pH da solução.
+O quadro abaixo fornece as cores que alguns indicadores apresentam à temperatura de 25°C
+
+**[FIGURA: Tabela com duas colunas, "Indicador" e "Cores conforme o pH", contendo quatro linhas de dados: 1) Azul de bromotimol (amarelo em pH ≤ 6,0; azul em pH ≥ 7,6); 2) Vermelho de metila (vermelho em pH ≤ 4,8; amarelo em pH ≥ 6,0); 3) Fenolftaleína (incolor em pH ≤ 8,2; vermelho em pH ≥ 10,0); 4) Alaranjado de metila (vermelho em pH ≤ 3,2; amarelo em pH ≥ 4,4).]**
+
+14 Suponha que uma pessoa inescrupulosa guardou garrafas vazias dessa água mineral, enchendo-as com água de torneira (pH entre 6,5 e 7,5) para serem vendidas como água mineral. Tal fraude pode ser facilmente comprovada pingando-se na “água mineral fraudada”, à temperatura de 25°C, gotas de
+
+(A) azul de bromotimol ou fenolftaleína.
+(B) alaranjado de metila ou fenolftaleína.
+(C) alaranjado de metila ou azul de bromotimol.
+(D) vermelho de metila ou azul de bromotimol.
+(E) vermelho de metila ou alaranjado de metila.

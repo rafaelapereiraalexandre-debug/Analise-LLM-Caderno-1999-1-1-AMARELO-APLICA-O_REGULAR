@@ -1,0 +1,24 @@
+18 A tabela abaixo apresenta dados referentes à mortalidade infantil, à porcentagem de famílias de baixa renda com crianças menores de 6 anos e às taxas de analfabetismo das diferentes regiões brasileiras e do Brasil como um todo.
+
+| Regiões do Brasil | Mortalidade infantil* | Famílias de baixa renda com crianças menores de 6 anos (em %) | Taxa de analfabetismo em maiores de 15 anos (em %) |
+| :--- | :---: | :---: | :---: |
+| Norte | 35,6 | 34,5 | 12,7 |
+| Nordeste | 59,0 | 54,9 | 29,4 |
+| Sul | 22,5 | 22,4 | 8,3 |
+| Sudeste | 25,2 | 18,9 | 8,6 |
+| Centro-Oeste | 25,4 | 25,5 | 12,4 |
+| **Brasil** | **36,7** | **31,8** | **14,7** |
+
+Fonte: *Folha de S. Paulo*, 11/03/99
+
+\* A mortalidade infantil indica o número de crianças que morrem antes de completar um ano de idade para cada grupo de 1.000 crianças que nasceram vivas.
+
+Suponha que um grupo de alunos recebeu a tarefa de pesquisar fatores que interferem na manutenção da saúde ou no desenvolvimento de doenças. O primeiro grupo deveria colher dados que apoiassem a idéia de que combatendo-se agentes biológicos e químicos garante-se a saúde. Já o segundo grupo deveria coletar informações que reforçassem a idéia de que a saúde de um indivíduo está diretamente relacionada à sua condição socioeconômica.
+
+Os dados da tabela podem ser utilizados apropriadamente para
+
+(A) apoiar apenas a argumentação do primeiro grupo.
+(B) apoiar apenas a argumentação do segundo grupo.
+(C) refutar apenas a posição a ser defendida pelo segundo grupo.
+(D) apoiar a argumentação dos dois grupos.
+(E) refutar as posições a serem defendidas pelos dois grupos.

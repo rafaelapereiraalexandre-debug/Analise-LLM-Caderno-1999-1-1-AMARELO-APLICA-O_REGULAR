@@ -1,0 +1,11 @@
+Uma garrafa cilíndrica está fechada, contendo um líquido que ocupa quase completamente seu corpo, conforme mostra a figura. Suponha que, para fazer medições, você disponha apenas de uma régua milimetrada.
+
+**[FIGURA: Ilustração de uma garrafa com corpo cilíndrico, gargalo estreito e fechada por uma rolha. A garrafa está na posição vertical normal, apoiada na base, e contém líquido em tom cinza ocupando a maior parte do corpo cilíndrico, restando uma pequena parte vazia na parte superior do cilindro abaixo do gargalo.]**
+
+21 Para calcular a capacidade total da garrafa, lembrando que você pode virá-la, o número mínimo de medições a serem realizadas é:
+
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
