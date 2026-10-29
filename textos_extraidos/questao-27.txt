@@ -1,0 +1,28 @@
+**[FIGURA: Mapa do Brasil mostrando a localização das capitais estaduais, a linha tracejada do Equador passando ao norte (próxima a Macapá e Boa Vista) e a linha tracejada do Trópico de Capricórnio passando ao sul (próxima a Curitiba e Florianópolis). No canto superior direito, há uma representação de uma vareta cilíndrica vertical fincada no centro de uma folha de cartolina cinza em formato retangular inclinado, projetando uma sombra linear sobre a folha.]**
+
+No primeiro dia do inverno no Hemisfério Sul, uma atividade de observação de sombras é realizada por alunos de Macapá, Porto Alegre e Recife. Para isso, utiliza-se uma vareta de $30\text{ cm}$ fincada no chão na posição vertical. Para marcar o tamanho e a posição da sombra, o chão é forrado com uma folha de cartolina, como mostra a figura:
+
+Nas figuras abaixo, estão representadas as sombras projetadas pelas varetas nas três cidades, no mesmo instante, ao meio-dia. A linha pontilhada indica a direção Norte-Sul.
+
+**[FIGURA: Três retângulos verticais lado a lado representando as orientações Norte-Sul (linha pontilhada vertical) e as sombras projetadas das varetas em três cidades. 
+- O primeiro retângulo, rotulado como "Recife", mostra a sombra projetada para o lado direito da linha pontilhada Norte-Sul, apontando para sudeste.
+- O segundo retângulo, rotulado como "Porto Alegre", mostra a sombra projetada para o lado esquerdo da linha pontilhada Norte-Sul, apontando para o noroeste.
+- O terceiro retângulo, rotulado como "Macapá", mostra a sombra projetada para o lado esquerdo da linha pontilhada Norte-Sul, apontando para o noroeste.]**
+
+27. Pelos resultados da experiência, num mesmo instante, em Recife a sombra se projeta à direita e nas outras duas cidades à esquerda da linha pontilhada na cartolina. É razoável, então, afirmar que existe uma localidade em que a sombra deverá estar bem mais próxima da linha pontilhada, em vias de passar de um lado para o outro. Em que localidade, dentre as listadas abaixo, seria mais provável que isso ocorresse?
+
+(A) Natal.
+(B) Manaus.
+(C) Cuiabá.
+(D) Brasília.
+(E) Boa Vista.
+
+A seqüência abaixo indica de maneira simplificada os passos seguidos por um grupo de cientistas para a clonagem de uma vaca:
+
+**I.** Retirou-se um óvulo da vaca Z. O núcleo foi desprezado, obtendo-se um óvulo anucleado.
+
+**II.** Retirou-se uma célula da glândula mamária da vaca W. O núcleo foi isolado e conservado, desprezando-se o resto da célula.
+
+**III.** O núcleo da célula da glândula mamária foi introduzido no óvulo anucleado. A célula reconstituída foi estimulada para entrar em divisão.
+
+**IV.** Após algumas divisões, o embrião foi implantado no útero de uma terceira vaca Y, mãe de aluguel. O embrião se desenvolveu e deu origem ao clone.

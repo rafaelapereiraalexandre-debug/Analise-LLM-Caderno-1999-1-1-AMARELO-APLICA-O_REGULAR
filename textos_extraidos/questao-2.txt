@@ -1,0 +1,16 @@
+02 Vinte anos depois da formatura, cinco colegas de turma decidem organizar uma confraternização. Para marcar o dia e o local da confraternização, precisam comunicar-se por telefone. Cada um conhece o telefone de alguns colegas e desconhece o de outros. No quadro abaixo, o número 1 indica que o colega da linha correspondente conhece o telefone do colega da coluna correspondente; o número 0 indica que o colega da linha não conhece o telefone do colega da coluna. Exemplo: Beto sabe o telefone do Dino que não conhece o telefone do Aldo.
+
+[FIGURA: Tabela 5x5 representando a matriz de adjacência do conhecimento de telefones entre cinco colegas: Aldo, Beto, Carlos, Dino e Ênio. As linhas representam quem possui o contato e as colunas representam quem é o contato. Valores da tabela:
+- Aldo: Aldo(1), Beto(1), Carlos(0), Dino(1), Ênio(0)
+- Beto: Aldo(0), Beto(1), Carlos(0), Dino(1), Ênio(0)
+- Carlos: Aldo(1), Beto(0), Carlos(1), Dino(1), Ênio(0)
+- Dino: Aldo(0), Beto(0), Carlos(0), Dino(1), Ênio(1)
+- Ênio: Aldo(1), Beto(1), Carlos(1), Dino(1), Ênio(1)]
+
+O número mínimo de telefonemas que Aldo deve fazer para se comunicar com Carlos é:
+
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5

@@ -1,0 +1,11 @@
+O diagrama abaixo representa a energia solar que atinge a Terra e sua utilização na geração de eletricidade. A energia solar é responsável pela manutenção do ciclo da água, pela movimentação do ar, e pelo ciclo do carbono que ocorre através da fotossíntese dos vegetais, da decomposição e da respiração dos seres vivos, além da formação de combustíveis fósseis.
+
+**[FIGURA: Fluxograma horizontal e vertical com caixas retangulares conectadas por setas, representando o fluxo da energia solar. No topo, a caixa "Proveniente do Sol" indica "200 bilhões de MW". Descem setas para quatro caixas paralelas: "Aquecimento do solo", "Evaporação da água", "Aquecimento do ar" e "Absorção pelas plantas". Da "Evaporação da água", uma seta aponta para "Energia Potencial (chuvas)", que por sua vez alimenta "Usinas hidroelétricas" gerando "100 000 MW". Da "Absorção pelas plantas", uma seta aponta para "Petróleo, gás e carvão", que alimenta "Usinas termelétricas" gerando "400 000 MW". Por fim, tanto as usinas hidroelétricas quanto as termelétricas convergem por setas para uma caixa inferior em destaque cinza chamada "Eletricidade", totalizando "500 000 MW".]**
+
+36 De acordo com este diagrama, uma das modalidades de produção de energia elétrica envolve combustíveis fósseis. A modalidade de produção, o combustível e a escala de tempo típica associada à formação desse combustível são, respectivamente,
+
+(A) hidroelétricas - chuvas - um dia
+(B) hidroelétricas - aquecimento do solo - um mês
+(C) termelétricas - petróleo - 200 anos
+(D) termelétricas - aquecimento do solo - 1 milhão de anos
+(E) termelétricas - petróleo - 500 milhões de anos

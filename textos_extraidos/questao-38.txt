@@ -1,0 +1,7 @@
+38 Uma estação distribuidora de energia elétrica foi atingida por um raio. Este fato provocou escuridão em uma extensa área. Segundo estatísticas, ocorre em média a cada 10 anos um fato desse tipo. Com base nessa informação, pode-se afirmar que
+
+(A) a estação está em funcionamento há no máximo 10 anos.
+(B) daqui a 10 anos deverá cair outro raio na mesma estação.
+(C) se a estação já existe há mais de 10 anos, brevemente deverá cair outro raio na mesma.
+(D) a probabilidade de ocorrência de um raio na estação independe do seu tempo de existência.
+(E) é impossível a estação existir há mais de 30 anos sem que um raio já a tenha atingido anteriormente.

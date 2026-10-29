@@ -1,0 +1,8 @@
+57 Em nosso planeta a quantidade de água está estimada em $1,36 \times 10^{6}$ trilhões de toneladas. Desse total, calcula-se que cerca de $95\%$ são de água salgada e dos $5\%$ restantes, quase a metade está retida nos pólos e geleiras.
+O uso de água do mar para obtenção de água potável ainda não é realidade em larga escala. Isso porque, entre outras razões,
+
+(A) o custo dos processos tecnológicos de dessalinização é muito alto.
+(B) não se sabe como separar adequadamente os sais nela dissolvidos.
+(C) comprometeria muito a vida aquática dos oceanos.
+(D) a água do mar possui materiais irremovíveis.
+(E) a água salgada do mar tem temperatura de ebulição alta.

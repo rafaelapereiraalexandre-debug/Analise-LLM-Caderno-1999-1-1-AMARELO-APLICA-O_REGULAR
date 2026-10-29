@@ -1,0 +1,12 @@
+12 O alumínio se funde a 666°C e é obtido à custa de energia elétrica, por eletrólise – transformação realizada a partir do óxido de alumínio a cerca de 1 000°C.
+
+A produção brasileira de alumínio, no ano de 1985, foi da ordem de 550 000 toneladas, tendo sido consumidos cerca de 20 kWh de energia elétrica por quilograma do metal. Nesse mesmo ano, estimou-se a produção de resíduos sólidos urbanos brasileiros formados por metais ferrosos e não-ferrosos em 3 700 t/dia, das quais 1,5% estima-se corresponder ao alumínio.
+([Dados adaptados de] FIGUEIREDO, P. J. M. *A sociedade do lixo: resíduos, a questão energética e a crise ambiental*. Piracicaba: UNIMEP, 1994)
+
+Suponha que uma residência tenha objetos de alumínio em uso cuja massa total seja de 10 kg (panelas, janelas, latas etc.). O consumo de energia elétrica mensal dessa residência é de 100 kWh. Sendo assim, na produção desses objetos utilizou-se uma quantidade de energia elétrica que poderia abastecer essa residência por um período de
+
+(A) 1 mês.
+(B) 2 meses.
+(C) 3 meses.
+(D) 4 meses.
+(E) 5 meses.

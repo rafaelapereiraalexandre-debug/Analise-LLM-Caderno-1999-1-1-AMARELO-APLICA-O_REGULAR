@@ -1,0 +1,13 @@
+José e Antônio viajarão em seus carros com as respectivas famílias para a cidade de Serra Branca. Com a intenção de seguir viagem juntos, combinam um encontro no marco inicial da rodovia, onde chegarão, de modo independente, entre meio-dia e 1 hora da tarde. Entretanto, como não querem ficar muito tempo esperando um pelo outro, combinam que o primeiro que chegar ao marco inicial esperará pelo outro, no máximo, meia hora; após esse tempo, seguirá viagem sozinho.
+
+Chamando de $x$ o horário de chegada de José e de $y$ o horário de chegada de Antônio, e representando os pares $(x;y)$ em um sistema de eixos cartesianos, a região OPQR ao lado indicada corresponde ao conjunto de todas as possibilidades para o par $(x;y)$:
+
+[FIGURA: Gráfico em um plano cartesiano representando a região quadrada OPQR. O eixo horizontal (eixo das abscissas) representa a "Chegada de José", variando de 0 (indicado como 12h) até 1 (indicado como 13h). O eixo vertical (eixo das ordenadas) representa a "Chegada de Antônio", variando de 0 (indicado como 12h) até 1 (indicado como 13h). O ponto O está na origem (0,0), correspondendo a 12h para ambos. O ponto P está em (0,1), indicando 12h para José e 13h para Antônio. O ponto Q está em (1,1), indicando 13h para ambos. O ponto R está em (1,0), indicando 13h para José e 12h para Antônio.]
+
+**24** Na região indicada, o conjunto de pontos que representa o evento "José e Antônio chegam ao marco inicial exatamente no mesmo horário" corresponde
+
+(A) à diagonal OQ.  
+(B) à diagonal PR.  
+(C) ao lado PQ.  
+(D) ao lado QR.  
+(E) ao lado OR.
