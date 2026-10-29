@@ -1,2 +1,0 @@
-ERRO DE PROCESSAMENTO:
-write() argument must be str, not None
